@@ -1,0 +1,25 @@
+.Table1{
+    border: 1px solid black;
+  border-collapse: collapse;
+  width: 90%;
+  margin-left: 5rem;
+  text-align: center;
+  border-style: dotted;
+}
+
+.border{
+    border: 1px solid black;
+  border-collapse: collapse;
+  border-style: dotted;
+}
+
+.xlImg{
+  margin-left: 45rem;
+}
+
+.btn{
+  margin-top: 2rem;
+  margin-left: 43rem;
+  color:#ffc107;
+  font-size: 1.5rem;
+}
